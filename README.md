@@ -13,7 +13,7 @@ It turns sound vibrations into an electrical signal using light — no microphon
 - A transimpedance amplifier (using an LM833N op-amp) turns that light change into a voltage signal.
 - The signal is sent out through a 3.5mm audio jack — you can plug in headphones or an oscilloscope to hear or see it.
 
-## 🔧 Components Used
+## Components Used
 - LM833N op-amp
 - Photodiode
 - 0.1 µF and 10 µF capacitors
